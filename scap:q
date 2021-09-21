@@ -1,0 +1,11 @@
+[1mdiff --git a/calculator.js b/calculator.js[m
+[1mindex 9a14d7f..5a2ff00 100644[m
+[1m--- a/calculator.js[m
+[1m+++ b/calculator.js[m
+[36m@@ -1,5 +1,5 @@[m
+ function sum(a, b) {[m
+[31m-  return;[m
+[32m+[m[32m  return a+b;[m
+ }[m
+ [m
+ function subtract(a, b) {[m
